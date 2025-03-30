@@ -1,4 +1,3 @@
-import React from 'react';
 import { Container, Typography, Grid, Card, CardMedia, CardContent, Box } from '@mui/material';
 
 const AboutUs = () => {

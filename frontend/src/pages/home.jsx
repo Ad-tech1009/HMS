@@ -1,6 +1,5 @@
-import React from 'react';
 import { Button, Container, Box } from '@mui/material';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 
 const backgroundImage = "https://cdn.pixabay.com/photo/2022/12/19/06/57/stethoscope-7664837_1280.jpg";
 
